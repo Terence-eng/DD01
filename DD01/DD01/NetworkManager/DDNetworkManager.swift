@@ -7,8 +7,6 @@
 //
 
 import UIKit
-import Alamofire
-import Reachability
 import MBProgressHUD
 struct DDNetworkManager: DDClient {
     let host: String = "https://itunes.apple.com/hk/rss/"

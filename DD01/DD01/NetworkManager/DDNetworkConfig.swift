@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import Alamofire
 
 enum DDHttpMethod: String {
     case GET
